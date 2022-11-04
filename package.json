@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "name": "dental-clinic-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
